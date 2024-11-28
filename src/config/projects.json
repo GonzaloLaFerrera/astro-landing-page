@@ -1,0 +1,19 @@
+{
+    "projects": [
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam, velit eos maxime nostrum dignissimos temporibus tempora, at reiciendis soluta omnis deleniti. Quos suscipit, tenetur voluptate molestias consequuntur et architecto assumenda itaque error impedit officiis eius, ducimus autem, cum iusto quis saepe perspiciatis excepturi accusantium amet. Est quo ex delectus deserunt.",
+            "image": "images/project1.svg"
+        },
+        {
+            "title": "Farm Land 2",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam, velit eos maxime nostrum dignissimos temporibus tempora, at reiciendis soluta omnis deleniti. Quos suscipit, tenetur voluptate molestias consequuntur et architecto assumenda itaque error impedit officiis eius, ducimus autem, cum iusto quis saepe perspiciatis excepturi accusantium amet. Est quo ex delectus deserunt.",
+            "image": "images/project2.svg"
+        },
+        {
+            "title": "Farm Land 3",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam, velit eos maxime nostrum dignissimos temporibus tempora, at reiciendis soluta omnis deleniti. Quos suscipit, tenetur voluptate molestias consequuntur et architecto assumenda itaque error impedit officiis eius, ducimus autem, cum iusto quis saepe perspiciatis excepturi accusantium amet. Est quo ex delectus deserunt.",
+            "image": "images/project3.svg"
+        }
+    ]
+}

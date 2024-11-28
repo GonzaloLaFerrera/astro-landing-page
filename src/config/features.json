@@ -1,0 +1,26 @@
+[
+    {
+        "title":"Secure",
+        "description":"Your data is encrypted and stored in a secure database"
+    },
+    {
+        "title":"Free",
+        "description":"Completely free of charge features"
+    },
+    {
+        "title":"Open Source",
+        "description":"The code is design to be accessed publicly"
+    },
+    {
+        "title":"Cross Platform",
+        "description":"Your data's availability accross multiple platforms is granteed"
+    },
+    {
+        "title":"Fast",
+        "description":"Our servers offers the most efficient transfer speed"
+    },
+    {
+        "title":"Encrypted",
+        "description":"Your data is encrypted with a reliable system"
+    }
+]
